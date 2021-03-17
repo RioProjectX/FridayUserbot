@@ -78,7 +78,7 @@ requests
 search-engine-parser
 selenium
 speedtest-cli>=2.0.2
-sqlalchemy>=1.2
+sqlalchemy==1.3.20
 telegraph
 tswift
 urbandict>=0.5
